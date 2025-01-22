@@ -45,8 +45,8 @@
   <h2>💬 Connect with Me</h2>
   <a href="https://fb.com/celmin.shane.quizon.cece.28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="celminshane.quizon.28" height="30" width="40" /></a>
   <a href="https://instagram.com/clmn.shn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clmnshn28" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/celmin-shane-quizon-cs12282002" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celmin shane quizon" height="30" width="40" /></a>
-  <a href="https://discord.gg/cece" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cece" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/celmin-shane-quizon-cs12282002" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celmin shane quizon" height="30" width="40" /></a>
+  <a href="https://www.discordapp.com/users/891914915546284083" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cece" height="30" width="40" /></a>
 </section>
 
 <hr/>
