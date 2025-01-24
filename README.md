@@ -7,7 +7,7 @@
   <p>🌱 Currently Learning ReactJS, Javascript and PHP.</p>
   <p>🎯 Goal: Build stunning, user-friendly websites.</p>
   <p>✨ Fun Fact: I love listening to K-pop and K-drama OSTs while coding!.</p>
-  <p>👨‍💻 See all my work and projects: <a href="https://celmin.vercel.app">my portfolio</a></p>
+  <p>👨‍💻 Take a look at my work and projects: <a href="https://celmin.vercel.app">my portfolio</a></p>
 </section>
 
 <hr/>
@@ -49,6 +49,7 @@
   <a href="https://www.discordapp.com/users/891914915546284083" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cece" height="30" width="40" /></a>
 </section>
 
+<!-- 
 <hr/>
 
 <div align="center">
@@ -56,3 +57,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=dgue2yoams2vr5xf070hi2qqg&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+-->
