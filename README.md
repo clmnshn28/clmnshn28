@@ -4,9 +4,9 @@
 
 <section align="center">
   <h2>🌟 About Me</h2>
-  <p>🌱 Currently Learning ReactJS, Javascript and PHP.</p>
-  <p>🎯 Goal: Build stunning, user-friendly websites.</p>
-  <p>✨ Fun Fact: I love listening to K-pop and K-drama OSTs while coding!.</p>
+  <p>🌱 Currently Learning ReactJS, Javascript and PHP</p>
+  <p>🎯 Goal: Build stunning, user-friendly websites</p>
+  <p>✨ Fun Fact: I love listening to K-pop and K-drama OSTs while coding!</p>
   <p>👨‍💻 Take a look at my work and projects: <a href="https://celmin.vercel.app">my portfolio</a></p>
 </section>
 
