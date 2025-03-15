@@ -23,12 +23,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=clmnshn28&theme=dark&hide_border=false" height="150" alt="streak stats"/>
 </section>
 
-
-<h2></h2>
-<section align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cache-bust=123" height="180" />
-</section>
-
 <section align="center">
   <h2>💬 Connect with Me</h2>
   <a href="https://fb.com/celmin.shane.quizon.cece.28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="celminshane.quizon.28" height="30" width="40" /></a>
