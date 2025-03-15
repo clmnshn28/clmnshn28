@@ -26,7 +26,7 @@
 
 <h2></h2>
 <section align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="180"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cache-bust=123" height="180" />
 </section>
 
 <section align="center">
