@@ -23,12 +23,13 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=clmnshn28&theme=dark&hide_border=false" height="150" alt="streak stats"/>
 </section>
 
+
 <section align="center">
-  <h2>💬 Connect with Me</h2>
-  <a href="https://fb.com/celmin.shane.quizon.cece.28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="celminshane.quizon.28" height="30" width="40" /></a>
-  <a href="https://instagram.com/clmn.shn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clmnshn28" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/celmin-shane-quizon-cs12282002" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celmin shane quizon" height="30" width="40" /></a>
-  <a href="https://www.discordapp.com/users/891914915546284083" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cece" height="30" width="40" /></a>
+    <h2>💬 Connect with Me</h2>
+  <a href="https://www.facebook.com/celmin.shane.quizon.cece.28" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <a href="https://instagram.com/clmn.shn/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="https://www.linkedin.com/in/celmin-shane-quizon-cs12282002" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.discordapp.com/users/891914915546284083" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </section>
 
 
