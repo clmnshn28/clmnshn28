@@ -1,7 +1,6 @@
 
 
 <!--<p>Hi there! I'm an aspiring Frontend Developer passionate about creating beautiful and user-friendly web experiences. My journey into the world of web development is driven by curiosity, creativity, and a love for problem-solving.</p> -->
-
 <section align="center">
   <h2>🌟 About Me</h2>
   <p>💡 Currently expanding my skills in ReactJS, JavaScript, and PHP.</p>
@@ -10,22 +9,25 @@
   <p>👨‍💻 Take a look at my work and projects: <a href="https://celmin.vercel.app">Visit my portfolio</a></p>
 </section>
 
-<hr/>
 
 <section align='center' style="margin: 20px 0;">
   <h2>🛠 Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,nodejs,mysql,figma,git" />
 </section>
 
-<hr/>
 
 <section align="center">
   <h2>⚡ Github Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=clmnshn28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clmnshn28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=clmnshn28&theme=dark&hide_border=false" height="150" alt="streak stats"/>
 </section>
 
-<hr/>
+
+<h2></h2>
+<section align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="180"/>
+</section>
 
 <section align="center">
   <h2>💬 Connect with Me</h2>
@@ -34,6 +36,7 @@
   <a href="https://www.linkedin.com/in/celmin-shane-quizon-cs12282002" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celmin shane quizon" height="30" width="40" /></a>
   <a href="https://www.discordapp.com/users/891914915546284083" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cece" height="30" width="40" /></a>
 </section>
+
 
 <!-- 
 <hr/>
