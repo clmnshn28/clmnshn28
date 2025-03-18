@@ -3,7 +3,7 @@
 <!--<p>Hi there! I'm an aspiring Frontend Developer passionate about creating beautiful and user-friendly web experiences. My journey into the world of web development is driven by curiosity, creativity, and a love for problem-solving.</p> -->
 <section align="center">
   <h2>🌟 About Me</h2>
-  <p>💡 Currently expanding my skills in ReactJS, JavaScript, and PHP.</p>
+  <p>💡 Currently expanding my skills in ReactJS, JavaScript, and PHP</p>
   <p>🎯 Goal: To create intuitive, visually appealing, and user-friendly website</p>
   <p>✨ Fun Fact: I enjoy coding while listening to K-pop and K-drama OSTs—it keeps me inspired!!</p>
   <p>👨‍💻 Take a look at my work and projects: <a href="https://celmin.vercel.app">Visit my portfolio</a></p>
