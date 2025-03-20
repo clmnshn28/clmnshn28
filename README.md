@@ -5,7 +5,7 @@
   <h2>🌟 About Me</h2>
   <p>💡 Currently expanding my skills in ReactJS, JavaScript, and PHP</p>
   <p>🎯 Goal: To create intuitive, visually appealing, and user-friendly website</p>
-  <p>✨ Fun Fact: I enjoy coding while listening to K-pop and K-drama OSTs—it keeps me inspired!!</p>
+  <p>✨ Fun Fact: I enjoy coding while listening to K-pop and K-drama OSTs—it keeps me inspired!</p>
   <p>👨‍💻 Take a look at my work and projects: <a href="https://celmin.vercel.app">Visit my portfolio</a></p>
 </section>
 
