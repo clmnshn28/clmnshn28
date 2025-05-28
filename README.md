@@ -12,7 +12,7 @@
 
 <section align='center' style="margin: 20px 0;">
   <h2>🛠 Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,nodejs,mysql,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,laravel,tailwind,nodejs,git,java,cpp,figma" />
 </section>
 
 
